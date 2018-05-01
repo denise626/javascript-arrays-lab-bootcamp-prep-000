@@ -15,3 +15,7 @@ function destructivelyPrependKitten(name) {
 function destructivelyRemoveFirstKitten() {
   kittens.shift()
 }
+
+function appendKitten(name) {
+  
+}
